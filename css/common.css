@@ -75,7 +75,11 @@ main {
 	width: 100%;
 	max-width: 930px;
 	margin: 0 auto;
+	/*
 	padding: 24px 0;
+	*/
+	padding: 24px 10;
+	box-sizing: border-box;
 }
 
 /* リンク文字の色設定 */
